@@ -1,0 +1,30 @@
+body{
+background-color: darkseagreen;
+}
+
+.parrafo{
+    width: 50%;
+    height: auto;
+    padding: 10px 5px 10px 5px;
+}
+
+.uno{
+    border: 10px double yellow;
+    background-color: aquamarine;
+    margin: auto;
+    color: brown;    
+}
+
+.dos{
+    border: 3px groove orange;
+    background-color: greenyellow;
+    margin-right: auto;
+    color: blueviolet;
+}
+
+.tres{
+    border: 3px dotted red;
+    background-color: orange;  
+    margin-left: auto;
+    color: chartreuse;  
+}

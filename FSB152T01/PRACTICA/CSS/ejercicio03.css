@@ -1,0 +1,21 @@
+#header{
+    background-color: darkkhaki;
+}
+
+#main{
+    background-color: lightslategray;
+}
+
+.section{
+    background-color: greenyellow;
+}
+
+.div{
+    background-color: aquamarine;
+}
+
+h1, h2{
+    color: red;
+}
+
+

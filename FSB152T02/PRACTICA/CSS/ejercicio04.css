@@ -1,0 +1,37 @@
+.parrafo{
+    width: 50%;
+    height: 30%;
+    background-color: beige;
+}
+
+.uno{
+    border: 3px solid;
+}
+
+.dos{
+    border: 3px dashed;
+}
+
+.tres{
+    border: 3px dotted;
+}
+
+.cuatro{
+    border: 3px double;
+}
+
+.cinco{
+    border: 3px groove;
+}
+
+.seis{
+    border: 3px ridge;
+}
+
+.siete{
+    border: 3px inset;
+}
+
+.ocho{
+    border: 3px outset;
+}

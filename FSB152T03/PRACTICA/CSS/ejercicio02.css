@@ -1,0 +1,15 @@
+.block{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: block;
+    margin-top: 5px;
+}
+
+.normal{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-right: 20px;
+}

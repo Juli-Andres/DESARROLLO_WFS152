@@ -1,0 +1,28 @@
+.parrafouno{
+    background-color: yellow;
+    color: blue;
+    width: 300px;
+    height: auto;
+    padding: 40px;
+    margin: 10px 20px;
+    border: 2px solid black;
+}
+
+.parrafodos{
+    background-color: #90ee90;
+    color: #8B0000;
+    width: 400px;
+    padding: 10px;
+    border: 2px solid grey;
+    text-align: center;
+}
+
+.parrafotres{
+    background-color: lightblue;
+    color: black;
+    width: 50%;
+    height: auto;
+    padding: 20px;
+    border: 2px solid maroon;
+    text-align: center;
+}
