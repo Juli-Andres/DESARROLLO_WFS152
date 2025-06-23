@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #67AE6E
+}
+
+.enlace {
+    font-size: 25px;
+    text-align: center;
+    color: #E1EEBC;
+}
+
+em {
+    background-color: inherit;
+}
+
+h1 {
+    background-color: inherit;
+}
+
+.linus {
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    border: 2px solid #E1EEBC;
+}
+
+.titulo {
+    display: block;
+    text-align: center;
+    background-color: #328E6E;
+    color: #E1EEBC;
+    border: 2px solid #E1EEBC;
+    padding: 10px;
+    margin: 20px;
+    font-size: 25px;
+}
+
+strong {
+    font-size: 25px;
+}
+
+.contenedor {
+    height: max-content;
+    border: 3px ridge #328E6E;
+    margin: 20px;
+    padding: 20px;
+    display: block;
+    background-color: #90C67C;
+
+}
+
+.parrafo {
+    width: 50%;
+    padding: 20px;
+    font-size: 22px;
+    border: 3px ridge rgba(255, 255, 255, 0.459);
+}
+
+.uno {
+    margin-right: auto;
+}
+
+.dos {
+    margin-left: auto;
+}
+
+.tres {
+    margin-right: auto;
+}
+
+.cuatro {
+    margin-left: auto;
+}
+
+.cinco {
+    margin-right: auto;
+}
+
+.seis {
+    margin-left: auto;
+}
+
+.siete {
+    margin-right: auto;
+}
+
+.ocho {
+    margin-left: auto;
+}
+
+.nueve {
+    margin-right: auto;
+}
+
+.diez {
+    margin-left: auto;
+}
+
+.once {
+    margin-right: auto;
+}
+
+.doce {
+    margin-left: auto;
+}
