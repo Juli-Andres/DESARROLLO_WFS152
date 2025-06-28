@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #67AE6E
+    background-color: #67AE6E;
 }
 
 .enlace {
@@ -25,6 +25,17 @@ h1 {
     height: 300px;
     margin: auto;
     border: 2px solid #E1EEBC;
+}
+
+.footer_main {
+    color: whitesmoke;
+    background-color: firebrick;
+    text-align: center;
+}
+
+footer {
+    display: block;
+    unicode-bidi: isolate;
 }
 
 .titulo {
@@ -58,6 +69,12 @@ strong {
     font-size: 19px;
     border: 3px ridge rgba(255, 255, 255, 0.459);
     text-align: center;
+}
+
+.inicio{
+    font-size: 17px;
+    text-align: center;
+    color: #E1EEBC;  
 }
 
 .uno {

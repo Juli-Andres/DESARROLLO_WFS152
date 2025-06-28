@@ -1,5 +1,9 @@
+
 .footer_main{
     color: whitesmoke;
-    background-color: firebrick;
+    background-color: #328E6E;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }

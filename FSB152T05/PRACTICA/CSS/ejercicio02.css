@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.6;
+  background-color: gainsboro;
+  min-height: 100vh; 
+  /*justify-content: center;  /* Centrado horizontal */
+  /*align-items: center;  /* Centrado vertical */
+}
+
+.contenedor {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;  /* Permite que se reagrupen */
+  gap: 2rem;
+  padding: 2rem 3rem;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+figure {
+  margin: 0;
+  width: 200px;
+  background-color: white;
+  border-radius: 8px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  display: block;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: rgb(0, 0, 0);
+}
+
+figcaption {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 14px;
+  color: black;
+  font-weight: bold;
+}
+
+footer{
+  display: block;
+}
+
+
+a{
+  display: block;
+  text-align: center;
+}
+
+h1 {
+  width: 100%;
+  font-size: 30px;
+  background-color: firebrick;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+
+.order-1{order: 6;}
+.order-2{order: 5;}
+.order-3{order: 4;}
+.order-4{order: 3;}
+.order-5{order: 2;}
+.order-6{order: 1;}

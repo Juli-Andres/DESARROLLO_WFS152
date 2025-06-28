@@ -1,7 +1,26 @@
+.contenedor{
+    margin-top: 20px;
+    border: 8px solid green;    
+}
+
 .base{
     color: red;
+    border: 3px solid black;
+    width: auto;
+    height: max-content;
+
 }
 
 .margen{
-    color: blue;
+    
+    margin-top: 30px;
+    margin-bottom: 100px;
+    background-color: blueviolet;
+    color: azure;
+}
+
+.padding{
+    padding: 50px;
+    background-color: cadetblue;
+    color: azure;
 }
