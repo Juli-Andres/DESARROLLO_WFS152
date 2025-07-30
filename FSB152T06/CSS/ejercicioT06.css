@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #328E6E;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+a{
+  text-align: center;
+  display: block;
+}
+
+main {
+  flex-grow: 1;
+  padding: 1em;
+  background-color: #E1EEBC;
+  border: 2px black;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
